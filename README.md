@@ -23,4 +23,4 @@
 
 Contributions are always welcome!
 
-See `CONTRIBUTING.md` for ways to get started.
+See [`CONTRIBUTING.md`](https://github.com/HappyHackingSpace/workable-spaces/blob/main/CONTRIBUTING.md) for ways to get started.
