@@ -9,20 +9,20 @@ Thank you for contributing to **WorkableSpaces**! This open-source repository he
 3. **Create a new branch** for your changes:
 
    ```bash
-   git checkout -b add-workspace-[city-name]
+   git checkout -b ...
    ```
 
 4. Add your workspace details to the appropriate section in the Markdown file.
 5. Commit your changes:
 
    ```bash
-   git commit -m "feat(city): add [Workspace Name] in [City Name]"
+   git commit -m "..."
    ```
 
 6. Push your changes to your forked repository:
 
    ```bash
-   git push origin add-workspace-[city-name]
+   git push origin ...
    ```
 
 7. Submit a pull request to the original repository.
